@@ -11,7 +11,7 @@ Over the years, I have strengthened my knowledge through autonomous learning and
 * 🌍  I'm based in Portugal.
 * ✉️  You can contact me at [mcym\_1995@hotmail.com](mailto:mcym_1995@hotmail.com)
 * 🧠  I'm learning backend development with Python for middlewares.
-* ⚡  I am doing a MSc. degree in Computer Science.
+* ⚡  I am doing a MSc. degree in Computer Science and learning Portuguese 🇵🇹.
 
 ### Skills
 
